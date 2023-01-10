@@ -1,0 +1,40 @@
+.content {
+    text-align: center;
+    margin-top: 100px;
+}
+#input{
+    text-align: center;
+
+}
+#card {  
+    display: flex;  
+
+
+}    
+#img{
+    /* top: 700%;
+    left: 50%; */
+    max-width: 260px; 
+    padding-right: 40px; 
+    max-width: 300;  
+    width: 100%;    
+
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+
+}
+#title{
+    text-align: center;
+}
+#button{
+    margin-top: 30px;
+    margin-right: 1300px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+#name{
+    margin-right: 900px;
+}
+body{
+    background-color: #9dc1fa;
+}
