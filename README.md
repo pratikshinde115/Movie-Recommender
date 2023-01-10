@@ -17,3 +17,7 @@ create an environment and install dependency -  $ pip install -r requirements.tx
 to run project (make sure your environment is activated and dependency are installed )
 
 $ pyton app.py
+
+
+deployment
+  https://movie-recommender02.herokuapp.com/
